@@ -1,0 +1,3 @@
+Leer readme.MD para obtener enlace a GitHub con el cliente
+
+Asegúrate de cambiar el localhost tanto para las llamadas a la API como para la connection string de la db en el API
